@@ -1,6 +1,6 @@
 .odd {
     background-color: pink;
-    font-family: Verdana; /*add multiple fonts */
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #no2 {
